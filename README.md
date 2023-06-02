@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently studying **Computer Science in East West University**
 
-- 🌱 I’m currently learning **Android development with Java and so interested on it**
+- 🌱 I started learning **Android development with Java and so interested on it**
 
-- 💬 Ask me about **java, php, html**
+- 💬 Ask me about **JAVA, PHP, HTML**
 
-- 📫 How to reach me **abirhasanshuvo1998@gmail.com**
+- 📫 Email me at- **abirhasanshuvo1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
