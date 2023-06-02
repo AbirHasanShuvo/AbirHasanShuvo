@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abirhasanshuvo&label=Profile%20views&color=0e75b6&style=flat" alt="abirhasanshuvo" /> </p>
 
-- 🔭 I’m currently studying **Computer Science in East West University**
+- 🔭 I’m currently studying **Computer Science and Engineering at East West University**
 
 - 🌱 I started learning **Android development with Java and so interested on it**
 
