@@ -11,7 +11,7 @@
 
 - 🔭 Currently I am studying towards a master’s degree in **CSE at Jahangirnagar University**
 
-- 🌱 First i learned **Android development with Java build some project. Now i am interested in flutter development and learning it & doing some android based project**
+- 🌱 First i learned **Android development with Java build some project. Now i am interested in flutter development and learning it with doing some android based project**
 
 - 💬 Ask me about **C, JAVA, PHP, HTML, DART**
 
