@@ -1,7 +1,7 @@
 
 <img align="center"  alt="coding"  src="https://github.com/AbirHasanShuvo/AbirHasanShuvo/blob/main/artificial-intelligence-3706562_1920.jpg">
 <h1 align="center">I'm Abir Hasan</h1>
-<h3 align="center">An flutter developer from Bangladesh</h3>
+<h3 align="center">Flutter developer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
