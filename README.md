@@ -11,9 +11,9 @@
 
 - 🔭 Currently I am studying towards a master’s degree in **CSE at Jahangirnagar University**
 
-- 🌱 I started learning **Android development with Java and so interested on it**
+- 🌱 First i learned **Android development with Java build some project. Now i am interested in flutter development and learning it & doing some android based project**
 
-- 💬 Ask me about **JAVA, PHP, HTML, DART**
+- 💬 Ask me about **C, JAVA, PHP, HTML, DART**
 
 - 📫 Email me at- **abirhasanshuvo1998@gmail.com**
 
