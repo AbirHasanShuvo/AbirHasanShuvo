@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abirhasanshuvo&label=Profile%20views&color=0e75b6&style=flat" alt="abirhasanshuvo" /> </p>
 
-- 🔭 I completed my BSC on **Computer Science and Engineering from East West University**
-- 
-- 🔭 Currently I am studying towards a master’s degree on **Computer Science and Engineering at Jahangirnagar University**
+- 🔭 I completed my BSC in **CSE from East West University**
+
+- 🔭 Currently I am studying towards a master’s degree in **CSE at Jahangirnagar University**
 
 - 🌱 I started learning **Android development with Java and so interested on it**
 
