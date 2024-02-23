@@ -11,7 +11,7 @@
 
 - 🔭 Currently I am studying towards a master degree in **CSE at Jahangirnagar University**
 
-- 🌱 First i learned **I learned native android development with Java, also know the basics about web programming, currently work with flutter**
+- 🌱 First i learned **I learned native android development with Java, also know the basics about web programming, currently working with flutter**
 
 - 💬 Ask me about **C, JAVA, DART, PHP, HTML,**
 
