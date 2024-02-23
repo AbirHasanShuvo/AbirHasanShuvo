@@ -1,7 +1,7 @@
 
 <img align="center"  alt="coding"  src="https://github.com/AbirHasanShuvo/AbirHasanShuvo/blob/main/artificial-intelligence-3706562_1920.jpg">
 <h1 align="center">I'm Abir Hasan</h1>
-<h3 align="center">Flutter developer from Bangladesh</h3>
+<h3 align="center">Mobile app developer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -9,11 +9,11 @@
 
 - 🔭 I completed my BSC in **CSE from East West University**
 
-- 🔭 Currently I am studying towards a master’s degree in **CSE at Jahangirnagar University**
+- 🔭 Currently I am studying towards a master degree in **CSE at Jahangirnagar University**
 
-- 🌱 First i learned **Android development with Java build some project. Now i am interested in flutter development and learning it with doing some android based project**
+- 🌱 First i learned **I learned native android development with Java, also know the basics about web programming, currently work with flutter**
 
-- 💬 Ask me about **C, JAVA, PHP, HTML, DART**
+- 💬 Ask me about **C, JAVA, DART, PHP, HTML,**
 
 - 📫 Email me at- **abirhasanshuvo1998@gmail.com**
 
